@@ -7,5 +7,7 @@
 - ⚡ Fun fact: Welcome to chat with me about everything!
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsanoCoCr)
+
 ![Visitor Count](https://profile-counter.glitch.me/UsanoCoCr/count.svg)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsanoCoCr&layout=compact)](https://github.com/UsanoCoCr/github-readme-stats)
