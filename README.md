@@ -6,6 +6,5 @@
 - 📫 How to reach me: forever.kzx0713@stu.pku.edu.cn
 - ⚡ Fun fact: Welcome to chat with me about everything!
 
-My
-![Homepage](https://usanococr.github.io/)
+My Homepage: https://usanococr.github.io
 
